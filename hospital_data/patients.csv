@@ -1,0 +1,3 @@
+id,firstName,lastName,dob,gender,contactNumber,address,admitted
+P104,Mariam,Ramy,2001-04-20,Unknown,,,false
+P101,Jane,Smith,1992-08-22,Female,555-987-6543,456 Oak Ave; Springfield,true

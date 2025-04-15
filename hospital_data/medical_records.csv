@@ -1,0 +1,12 @@
+id,patientId,diagnosis,notes,recordDate
+MR2575b88e,P103,Routine checkup,,2025-04-10
+MR2ffc1f7c,P104,Updated diagnosis,,2025-04-15
+MRd0b203ba,P103,Routine checkup,asdasdhi,2025-04-10
+MRb7beaa27,P104,Updated diagnosis,,2025-04-15
+MRf303d6ad,P104,Flu symptoms,Prescribed: Acetaminophen; rest for 3 days,2025-04-15
+MR4a83499b,P104,Flu symptoms,Prescribed: Acetaminophen; rest for 3 days,2025-04-15
+MRd3257fe6,P125,Routine checkup,,2025-04-10
+MR871dcdf0,P115,Routine checkup,,2025-04-10
+MRf1575e2f,P104,Flu symptoms,Prescribed: Acetaminophen; rest for 3 days,2025-04-15
+MR04f8f0d9,P104,Updated diagnosis,,2025-04-15
+MR967e8906,P103,Routine checkup,asdasdasd,2025-04-10

@@ -1,0 +1,4 @@
+id,patientId,type,dateTime,status
+APT-P125-1,P125,Vaccination,2025-04-16 13:30:00,SCHEDULED
+APT-P105-1,P105,Surgery,2025-04-16 11:30:00,RESCHEDULED
+APT-5b89c215,P103,Specialist Consultation,2025-04-16 11:00:00,COMPLETED
